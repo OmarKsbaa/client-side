@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="images/image.png" alt="KeplerX - Haunting Exoplanets Project" width="800" style="border-radius: 20px; box-shadow: 0 15px 40px rgba(0, 212, 255, 0.3); margin: 20px 0;">
+<img src="image.png" alt="KeplerX - Haunting Exoplanets Project" width="800" style="border-radius: 20px; box-shadow: 0 15px 40px rgba(0, 212, 255, 0.3); margin: 20px 0;">
 
 </div>
 
@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### The Brilliant Minds Behind KeplerX
 
-<img src="images/team.png" alt="KeplerX Team" width="600" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);">
+<img src="team.png" alt="KeplerX Team" width="600" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);">
 
 </div>
 
