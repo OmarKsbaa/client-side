@@ -1,6 +1,12 @@
 # 🌌 KeplerX: Haunting Exoplanets
 ### *Revolutionizing Exoplanet Discovery Through Machine Learning*
 
+<div align="center">
+
+<img src="images/image.png" alt="KeplerX - Haunting Exoplanets Project" width="800" style="border-radius: 20px; box-shadow: 0 15px 40px rgba(0, 212, 255, 0.3); margin: 20px 0;">
+
+</div>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-brightgreen.svg)](https://python.org)
 [![AI/ML](https://img.shields.io/badge/AI-Machine%20Learning-orange.svg)](https://github.com/topics/machine-learning)
@@ -222,17 +228,40 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Open Source Community** - For the tools that make this possible
 - **Astronomy Community** - For continuing to push the boundaries of discovery
 
----
 
-## 📞 **Contact & Support**
 
-**Project Maintainer:** [Omar Ksbaa](https://github.com/OmarKsbaa)  
-**Repository:** [KeplerX Client](https://github.com/OmarKsbaa/client-side)  
-**Issues:** [Report a Bug](https://github.com/OmarKsbaa/client-side/issues)  
-
----
+## 👥 **Meet Our Team**
 
 <div align="center">
+
+### The Brilliant Minds Behind KeplerX
+
+<img src="images/team.png" alt="KeplerX Team" width="600" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);">
+
+</div>
+
+**Our passionate team of developers and space enthusiasts:**
+
+### 🚀 **Team Members**
+
+<table align="center">
+<tr>
+<td align="center"><strong>Ahmed Nehad</strong></td>
+<td align="center"><strong>Omar Mostafa</strong></td>
+<td align="center"><strong>Menna Sayed</strong></td>
+</tr>
+<tr>
+<td align="center"><strong>Toqa Ehab</strong></td>
+<td align="center"><strong>Ahmed Mustafa</strong></td>
+<td align="center"><strong>Muhap Ayman</strong></td>
+</tr>
+</table>
+
+<div align="center">
+
+*Together, we're pushing the boundaries of space exploration through the power of artificial intelligence.*
+
+---
 
 ### 🌌 *"The universe is vast and full of wonders. Let's discover them together."*
 
